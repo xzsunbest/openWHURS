@@ -54,7 +54,8 @@
 3. [SpaceResection](https://github.com/Priority-At-Next-Intersection/SpaceResection) By Ma Yaowei
 4. [Space-Resection](https://github.com/Fang-Lansheng/Space-Resection) By Zhang Jifan
 6. [SIFT](https://github.com/spAurora/SIFT) By Wang Haoyu
-6. [ImageMatch](https://github.com/WeiYu184/ImageMatch) By Wei Yu
+6. [ImageFactory](https://github.com/WHULS/ImageFactory) By Lin Shan
+7. [ImageMatch](https://github.com/WeiYu184/ImageMatch) By Wei Yu
 
 ### Remote Sensing Image Interpretation
 
@@ -70,3 +71,12 @@
 3. [whu-library-seat-mobile](https://github.com/CS-Tao/whu-library-seat-mobile) 武汉大学图书馆抢座软件（移动端）。By Tao Chunsheng
 4. [RushSeat-UI](https://github.com/spAurora/RushSeat-UI) 武汉大学信图抢座程序。By Wang Haoyu
 
+## 附注
+
+对于本仓库中所有含外部库的`C++`程序，如果你使用的软件是Visual Studio 2017或更高版本，建议采用[vcpkg](https://github.com/microsoft/vcpkg)自动包管理工具进行安装，安装说明见vcpkg官方说明文档。安装完成后即可安装所需依赖库，如在Powershell中输入：
+
+```bash
+PS> .\vcpkg install eigen opencv gdal[core]
+```
+
+即可自动安装Eigen，OpenCV和GDAL库并配置好全部依赖项，后续新建项目时不必重复配置。
