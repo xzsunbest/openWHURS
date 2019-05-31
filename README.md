@@ -36,14 +36,16 @@
 
 ### Pattern Recognition
 
-1. [Pattern_Classification](https://github.com/district10/Pattern_Classification) By Tang Zhixiong
-2. [TM_Image_Classifier](https://github.com/Rootian/TM_Image_Classifier) By Zhang Tianyi
-3. [KMeans](https://github.com/WeiYu184/KMeans) By Wei Yu
+1. [ImageFactory](https://github.com/CS-Tao/ImageFactory) By Tao Chunsheng
+2. [Pattern_Classification](https://github.com/district10/Pattern_Classification) By Tang Zhixiong
+3. [TM_Image_Classifier](https://github.com/Rootian/TM_Image_Classifier) By Zhang Tianyi
+4. [KMeans](https://github.com/WeiYu184/KMeans) By Wei Yu
 
 ### [Principle and Application of Remote Sensing](https://github.com/xzsunbest/openWHURS/tree/master/PrincipleAndApplicationOfRemoteSensing)
 
 1. [QDARS](https://github.com/HanwGeek/QDARS) By Wang Han
-2. [Fmask](https://github.com/xzsunbest/openWHURS/tree/master/PrincipleAndApplicationOfRemoteSensing/Fmask) 基于初版Fmask算法的去云程序。程序存在疏漏，请谨慎使用。官方代码仓库请参考[这里](<https://github.com/GERSL/Fmask>)。By Xiang Zheng
+2. [ImperviousSurface-](https://github.com/spAurora/ImperviousSurface-) By Wang Haoyu
+3. [Fmask](https://github.com/xzsunbest/openWHURS/tree/master/PrincipleAndApplicationOfRemoteSensing/Fmask) 基于初版Fmask算法的去云程序。程序存在疏漏，请谨慎使用。官方代码仓库请参考[这里](<https://github.com/GERSL/Fmask>)。By Xiang Zheng
 
 ### Principle of Photogrammetry
 
@@ -51,6 +53,7 @@
 2. [SpaceResection](https://github.com/WeiYu184/SpaceResection) By Wei Yu
 3. [SpaceResection](https://github.com/Priority-At-Next-Intersection/SpaceResection) By Ma Yaowei
 4. [Space-Resection](https://github.com/Fang-Lansheng/Space-Resection) By Zhang Jifan
+6. [SIFT](https://github.com/spAurora/SIFT) By Wang Haoyu
 6. [ImageMatch](https://github.com/WeiYu184/ImageMatch) By Wei Yu
 
 ### Remote Sensing Image Interpretation
@@ -59,4 +62,11 @@
 2. [PSI](https://github.com/Priority-At-Next-Intersection/PSI) By Ma Yaowei
 3. [MBI](https://github.com/Priority-At-Next-Intersection/MBI) By Ma Yaowei
 4. [PSI](https://github.com/WeiYu184/PSI) By Wei Yu
+
+### Others
+
+1. [AttendenceDataProcess](https://github.com/HPDell/AttendenceDataProcess) 考勤数据处理软件。By Hu Yigong
+2. [whu-library-seat](https://github.com/CS-Tao/whu-library-seat) 武汉大学图书馆抢座软件（桌面端）。By Tao Chunsheng
+3. [whu-library-seat-mobile](https://github.com/CS-Tao/whu-library-seat-mobile) 武汉大学图书馆抢座软件（移动端）。By Tao Chunsheng
+4. [RushSeat-UI](https://github.com/spAurora/RushSeat-UI) 武汉大学信图抢座程序。By Wang Haoyu
 
