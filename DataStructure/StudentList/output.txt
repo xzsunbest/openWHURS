@@ -1,0 +1,39 @@
+SSN: 333-33-3333
+Name: Alexander, Neval
+Registered For 2 Classes
+  - CMSC0412-0101
+  - ENME0515-0123
+
+SSN: 444-44-4444
+Name: Carol, John
+Registered For 4 Classes
+  - ENEE0114-0103
+  - CMSC0412-0101
+  - ENME0515-0123
+  - DSAC0712-0134
+
+SSN: 666-66-6666
+Name: Cygwin, Kate
+Registered For 3 Classes
+  - ENEE0114-0103
+  - ENME0515-0123
+  - DSAC0712-0134
+
+SSN: 111-11-1111
+Name: Sanders, Lisa
+Registered For 3 Classes
+  - ENEE0114-0103
+  - CMSC0412-0101
+  - ENME0515-0123
+
+SSN: 222-22-2222
+Name: Simpson, Bart
+Registered For 1 Classes
+  - CMSC0412-0101
+
+SSN: 555-55-5555
+Name: Williams, Luke
+Registered For 2 Classes
+  - ENME0515-0123
+  - DSAC0712-0134
+
