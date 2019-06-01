@@ -12,13 +12,13 @@
 #include<ogr_spatialref.h>
 
 const double REFLECTANCE_MULT_BAND[6] = { 1.2540e-03,     //Band 1
-									      2.6207e-03,     //Band 2
+                                          2.6207e-03,     //Band 2
                                           2.2303e-03,     //Band 3
                                           2.6995e-03,     //Band 4
                                           1.8278e-03,     //Band 5
                                           2.5372e-03 };   //Band 7
 const double REFLECTANCE_ADD_BAND[6] = { -0.003743,       //Band 1
-									     -0.007760,       //Band 2
+                                         -0.007760,       //Band 2
                                          -0.004730,       //Band 3
                                          -0.007353,       //Band 4
                                          -0.007447,       //Band 5
