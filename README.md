@@ -50,12 +50,16 @@
 ### Principle of Photogrammetry
 
 1. [SpaceResection](https://github.com/HPDell/SpaceResection) By Hu Yigong
-2. [SpaceResection](https://github.com/WeiYu184/SpaceResection) By Wei Yu
-3. [SpaceResection](https://github.com/Priority-At-Next-Intersection/SpaceResection) By Ma Yaowei
-4. [Space-Resection](https://github.com/Fang-Lansheng/Space-Resection) By Zhang Jifan
-6. [SIFT](https://github.com/spAurora/SIFT) By Wang Haoyu
-6. [ImageFactory](https://github.com/WHULS/ImageFactory) By Lin Shan
-7. [ImageMatch](https://github.com/WeiYu184/ImageMatch) By Wei Yu
+2. [space-resection](https://github.com/fan0210/space-resection) By Fan Kai
+3. [SpaceResection](https://github.com/WeiYu184/SpaceResection) By Wei Yu
+4. [SpaceResection](https://github.com/Priority-At-Next-Intersection/SpaceResection) By Ma Yaowei
+5. [Space-Resection](https://github.com/Fang-Lansheng/Space-Resection) By Zhang Jifan
+6. [space-intersection](https://github.com/fan0210/space-intersection) By Fan Kai
+7. [Correlation-coefficient-image-matching](https://github.com/fan0210/Correlation-coefficient-image-matching) By Fan Kai
+8. [Moravec-Forstner](https://github.com/fan0210/Moravec-Forstner) By Fan Kai
+9. [SIFT](https://github.com/spAurora/SIFT) By Wang Haoyu
+10. [ImageFactory](https://github.com/WHULS/ImageFactory) By Lin Shan
+11. [ImageMatch](https://github.com/WeiYu184/ImageMatch) By Wei Yu
 
 ### Remote Sensing Image Interpretation
 
