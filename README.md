@@ -12,7 +12,7 @@
 2. [Data-Structure-Algorithms](https://github.com/WeiYu184/Data-Structure-Algorithms) By Wei Yu
 3. [algorithm](https://github.com/cgADNcdz/algorithm) By Chen Dingzhi
 4. [algorithm-visualization-for-Mr-Huang](https://github.com/cgADNcdz/algorithm-visualization-for-Mr-Huang) By Chen Dingzhi
-5. [HuffmamCoding](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/HuffmamCoding) By Xiang Zheng
+5. [HuffmanCoding](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/HuffmanCoding) By Xiang Zheng
 6. [StudentList](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/StudentList) By Xiang Zheng
 7. [RLCcoding](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/RLCcoding) By Xiang Zheng
 8. [CPP_training](https://github.com/zhouzhikwo/CPP_training) By Zhou Zhiguo
@@ -67,6 +67,10 @@
 2. [PSI](https://github.com/Priority-At-Next-Intersection/PSI) By Ma Yaowei
 3. [MBI](https://github.com/Priority-At-Next-Intersection/MBI) By Ma Yaowei
 4. [PSI](https://github.com/WeiYu184/PSI) By Wei Yu
+
+### [Microwave Remote Sensing](https://github.com/xzsunbest/openWHURS/tree/master/MicrowaveRemoteSensing)
+
+1. [RDGeometricCorrection](https://github.com/xzsunbest/openWHURS/tree/master/MicrowaveRemoteSensing/RDGeometricCorrection) By Xiang Zheng
 
 ### Others
 
