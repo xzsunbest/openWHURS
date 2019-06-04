@@ -79,10 +79,10 @@ int main() {
 	vecZ << listZ[1], listZ[2], listZ[3], listZ[4], listZ[5];
 	MatrixXd matT(5, 4);
 	matT << 1, 0, 0, 0,
-			1, dt, pow(dt, 2), pow(dt, 3),
-			1, 2 * dt, pow(2 * dt, 2), pow(2 * dt, 3),
-			1, 3 * dt, pow(3 * dt, 2), pow(3 * dt, 3),
-			1, 4 * dt, pow(4 * dt, 2), pow(4 * dt, 3);
+	        1, dt, pow(dt, 2), pow(dt, 3),
+	        1, 2 * dt, pow(2 * dt, 2), pow(2 * dt, 3),
+	        1, 3 * dt, pow(3 * dt, 2), pow(3 * dt, 3),
+	        1, 4 * dt, pow(4 * dt, 2), pow(4 * dt, 3);
 	Vector4d coeX = calculateCoefficient(matT, vecX);
 	Vector4d coeY = calculateCoefficient(matT, vecY);
 	Vector4d coeZ = calculateCoefficient(matT, vecZ);
@@ -135,7 +135,7 @@ int main() {
 			while (iter <= 20 && abs(delta) > EPS2) {
 				satVec v = calculateSatelliteVector(t);
 				delta = (v.vx * (v.x - x) + v.vy * (v.y - y) + v.vz * (v.z - z)) /
-						(v.ax * (v.x - x) + v.ay * (v.y - y) + v.az * (v.z - z) + v.vx * v.vx + v.vy * v.vy + v.vz * v.vz);
+				        (v.ax * (v.x - x) + v.ay * (v.y - y) + v.az * (v.z - z) + v.vx * v.vx + v.vy * v.vy + v.vz * v.vz);
 				t -= delta;
 				++iter;
 			}
