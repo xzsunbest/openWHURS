@@ -40,6 +40,7 @@
 2. [Pattern_Classification](https://github.com/district10/Pattern_Classification) By Tang Zhixiong
 3. [TM_Image_Classifier](https://github.com/Rootian/TM_Image_Classifier) By Zhang Tianyi
 4. [KMeans](https://github.com/WeiYu184/KMeans) By Wei Yu
+5. [Pattern-Recognition-Visualization](https://github.com/YW-Ma/Pattern-Recognition-Visualizer) By Ma Yaowei 一个用PyQt5实现的聚类过程可视化程序，提供Release版。
 
 ### [Principle and Application of Remote Sensing](https://github.com/xzsunbest/openWHURS/tree/master/PrincipleAndApplicationOfRemoteSensing)
 
