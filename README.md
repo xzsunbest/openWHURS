@@ -53,7 +53,7 @@
 1. [SpaceResection](https://github.com/HPDell/SpaceResection) By Hu Yigong
 2. [space-resection](https://github.com/fan0210/space-resection) By Fan Kai
 3. [SpaceResection](https://github.com/WeiYu184/SpaceResection) By Wei Yu
-4. [SpaceResection](https://github.com/Priority-At-Next-Intersection/SpaceResection) By Ma Yaowei
+4. [SpaceResection](https://github.com/Priority-At-Next-Intersection/SpaceResection) By Ma Yaowei(C++与MATLAB)
 5. [Space-Resection](https://github.com/Fang-Lansheng/Space-Resection) By Zhang Jifan
 6. [space-intersection](https://github.com/fan0210/space-intersection) By Fan Kai
 7. [Correlation-coefficient-image-matching](https://github.com/fan0210/Correlation-coefficient-image-matching) By Fan Kai
@@ -65,9 +65,8 @@
 ### Remote Sensing Image Interpretation
 
 1. [morphological-building-index-and-postprocessing](https://github.com/BiQiWHU/morphological-building-index-and-postprocessing) By Bi Qi
-2. [PSI](https://github.com/Priority-At-Next-Intersection/PSI) By Ma Yaowei
-3. [MBI](https://github.com/Priority-At-Next-Intersection/MBI) By Ma Yaowei
-4. [PSI](https://github.com/WeiYu184/PSI) By Wei Yu
+2. [MBI](https://github.com/Priority-At-Next-Intersection/MBI) By Ma Yaowei
+3. [PSI](https://github.com/WeiYu184/PSI) By Wei Yu
 
 ### [Microwave Remote Sensing](https://github.com/xzsunbest/openWHURS/tree/master/MicrowaveRemoteSensing)
 
