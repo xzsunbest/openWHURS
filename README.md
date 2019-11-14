@@ -11,7 +11,7 @@
 1. [ShortestPath](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/ShortestPath) 一个采用堆排序优化的最短路径程序。By Xiang Zheng
 2. [Data-Structure-Algorithms](https://github.com/WeiYu184/Data-Structure-Algorithms) By Wei Yu
 3. [algorithm](https://github.com/cgADNcdz/algorithm) By Chen Dingzhi
-4. [algorithm-visualization-for-Mr-Huang](https://github.com/cgADNcdz/algorithm-visualization-for-Mr-Huang) By Chen Dingzhi
+4. [Graph-Algorithms-Visualizer](https://github.com/YW-Ma/Algorithms-Visualizer) By Chen Dingzhi & Ma Yaowei
 5. [HuffmanCoding](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/HuffmanCoding) By Xiang Zheng
 6. [StudentList](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/StudentList) By Xiang Zheng
 7. [RLCcoding](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/RLCcoding) By Xiang Zheng
