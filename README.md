@@ -16,6 +16,7 @@
 6. [StudentList](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/StudentList) By Xiang Zheng
 7. [RLCcoding](https://github.com/xzsunbest/openWHURS/tree/master/DataStructure/RLCcoding) By Xiang Zheng
 8. [CPP_training](https://github.com/zhouzhikwo/CPP_training) By Zhou Zhiguo
+9. [Practice-HashMap](https://github.com/YW-Ma/Practice-HashMap)从头构建哈希映射 By Ma Yaowei
 
 ### [Digital Image Processing](https://github.com/xzsunbest/openWHURS/tree/master/DigitalImageProcessing)
 
